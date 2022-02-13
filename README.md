@@ -1,5 +1,7 @@
 # Hepsiemlak-Java-Spring-Bootcamp-HW2
 
+Swagger ->
+http://localhost:8080/swagger-ui/index.html
 
 • Java dünyasındaki framework’ler ve çözdükleri problemler nedir? Kod Örneklendirini de 
 içermelidir. 
